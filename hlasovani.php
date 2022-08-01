@@ -7,14 +7,13 @@ require('config.php');
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TropicLand</title>
-    <meta name="description" content="TropicLand je nový server zaměřený na ekonomické a rpg servery. Najdeš u nás různé typy survivalu, oneblock a další. Vyber si jeden z našich herních modů, poznej fajn komunitu a užívej si požitek ze serveru!">
+    <title><?php echo"$nazev_serveru";?></title>
+    <meta name="description" content="<?php echo"$popis_serveru";?>">
     <link rel="stylesheet" href="../style/bg2.css">
     <link rel="stylesheet" href="../style/hlasovani.css">
     <link rel="stylesheet" href="../style/style.css">
-    <meta property="og:image" content="../img/logo.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="<?php echo"$logo_serveru";?>" type="image/x-icon">
     <script src="https://kit.fontawesome.com/cf6d4472b1.js" crossorigin="anonymous"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
