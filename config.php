@@ -30,37 +30,37 @@ $herni_mod_3_nazev = "Název módu";
 $herni_mod_3_popis = "Popis módu (Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi ipsum quasi labore deserunt ducimus ipsa dicta temporibus necessitatibus.)";
 $herni_mod_3_fotka = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
 
-$herni_mod_4 = "true";
+$herni_mod_4 = "false";
 $herni_mod_4_nazev = "Název módu";
 $herni_mod_4_popis = "Popis módu (Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi ipsum quasi labore deserunt ducimus ipsa dicta temporibus necessitatibus.)";
 $herni_mod_4_fotka = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
 
-$herni_mod_5 = "true";
+$herni_mod_5 = "false";
 $herni_mod_5_nazev = "Název módu";
 $herni_mod_5_popis = "Popis módu (Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi ipsum quasi labore deserunt ducimus ipsa dicta temporibus necessitatibus.)";
 $herni_mod_5_fotka = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
 
-$herni_mod_6 = "true";
+$herni_mod_6 = "false";
 $herni_mod_6_nazev = "Název módu";
 $herni_mod_6_popis = "Popis módu (Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi ipsum quasi labore deserunt ducimus ipsa dicta temporibus necessitatibus.)";
 $herni_mod_6_fotka = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
 
-$herni_mod_7 = "true";
+$herni_mod_7 = "false";
 $herni_mod_7_nazev = "Název módu";
 $herni_mod_7_popis = "Popis módu (Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi ipsum quasi labore deserunt ducimus ipsa dicta temporibus necessitatibus.)";
 $herni_mod_7_fotka = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
 
-$herni_mod_8 = "true";
+$herni_mod_8 = "false";
 $herni_mod_8_nazev = "Název módu";
 $herni_mod_8_popis = "Popis módu (Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi ipsum quasi labore deserunt ducimus ipsa dicta temporibus necessitatibus.)";
 $herni_mod_8_fotka = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
 
-$herni_mod_9 = "true";
+$herni_mod_9 = "false";
 $herni_mod_9_nazev = "Název módu";
 $herni_mod_9_popis = "Popis módu (Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi ipsum quasi labore deserunt ducimus ipsa dicta temporibus necessitatibus.)";
 $herni_mod_9_fotka = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
 
-$herni_mod_10 = "true";
+$herni_mod_10 = "false";
 $herni_mod_10_nazev = "Název módu";
 $herni_mod_10_popis = "Popis módu (Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi ipsum quasi labore deserunt ducimus ipsa dicta temporibus necessitatibus.)";
 $herni_mod_10_fotka = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
@@ -108,37 +108,37 @@ $dynmap_server_3_odkaz = "https://dynmap.mujserver.cz";
 $dynmap_server_3_nazev = "Název serveru";
 $dynmap_server_3_pozadi = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
 
-$dynmap_server_4 = "true";
+$dynmap_server_4 = "false";
 $dynmap_server_4_odkaz = "https://dynmap.mujserver.cz";
 $dynmap_server_4_nazev = "Název serveru";
 $dynmap_server_4_pozadi = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
 
-$dynmap_server_5 = "true";
+$dynmap_server_5 = "false";
 $dynmap_server_5_odkaz = "https://dynmap.mujserver.cz";
 $dynmap_server_5_nazev = "Název serveru";
 $dynmap_server_5_pozadi = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
 
-$dynmap_server_6 = "true";
+$dynmap_server_6 = "false";
 $dynmap_server_6_odkaz = "https://dynmap.mujserver.cz";
 $dynmap_server_6_nazev = "Název serveru";
 $dynmap_server_6_pozadi = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
 
-$dynmap_server_7 = "true";
+$dynmap_server_7 = "false";
 $dynmap_server_7_odkaz = "https://dynmap.mujserver.cz";
 $dynmap_server_7_nazev = "Název serveru";
 $dynmap_server_7_pozadi = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
 
-$dynmap_server_8 = "true";
+$dynmap_server_8 = "false";
 $dynmap_server_8_odkaz = "https://dynmap.mujserver.cz";
 $dynmap_server_8_nazev = "Název serveru";
 $dynmap_server_8_pozadi = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
 
-$dynmap_server_9 = "true";
+$dynmap_server_9 = "false";
 $dynmap_server_9_odkaz = "https://dynmap.mujserver.cz";
 $dynmap_server_9_nazev = "Název serveru";
 $dynmap_server_9_pozadi = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
 
-$dynmap_server_10 = "true";
+$dynmap_server_10 = "false";
 $dynmap_server_10_odkaz = "https://dynmap.mujserver.cz";
 $dynmap_server_10_nazev = "Název serveru";
 $dynmap_server_10_pozadi = "https://cdn.wallpapersafari.com/83/52/2jozds.jpg";
