@@ -68,70 +68,70 @@ require('config.php');
     <div class="at-team">
 
 <?php if($dynmap_server_1 == "true"){
-echo '<div style="background-image:url('.$dynmap_server_1_pozadi.')">
+echo '<div style="background-image:url('.$dynmap_server_1_pozadi.');background-position: center center;">
         <a href="'.$dynmap_server_1_odkaz.'" target="_blank"><div class="button">'.$dynmap_server_1_nazev.'</div></a>
       </div>';
 }
 ?>
 
 <?php if($dynmap_server_2 == "true"){
-echo '<div style="background-image:url('.$dynmap_server_2_pozadi.')">
+echo '<div style="background-image:url('.$dynmap_server_2_pozadi.');background-position: center center;">
         <a href="'.$dynmap_server_2_odkaz.'" target="_blank"><div class="button">'.$dynmap_server_2_nazev.'</div></a>
       </div>';
 }
 ?>
 
 <?php if($dynmap_server_3 == "true"){
-echo '<div style="background-image:url('.$dynmap_server_3_pozadi.')">
+echo '<div style="background-image:url('.$dynmap_server_3_pozadi.');background-position: center center;">
         <a href="'.$dynmap_server_3_odkaz.'" target="_blank"><div class="button">'.$dynmap_server_3_nazev.'</div></a>
       </div>';
 }
 ?>
 
 <?php if($dynmap_server_4 == "true"){
-echo '<div style="background-image:url('.$dynmap_server_4_pozadi.')">
+echo '<div style="background-image:url('.$dynmap_server_4_pozadi.');background-position: center center;">
         <a href="'.$dynmap_server_4_odkaz.'" target="_blank"><div class="button">'.$dynmap_server_4_nazev.'</div></a>
       </div>';
 }
 ?>
 
 <?php if($dynmap_server_5 == "true"){
-echo '<div style="background-image:url('.$dynmap_server_5_pozadi.')">
+echo '<div style="background-image:url('.$dynmap_server_5_pozadi.');background-position: center center;">
         <a href="'.$dynmap_server_5_odkaz.'" target="_blank"><div class="button">'.$dynmap_server_5_nazev.'</div></a>
       </div>';
 }
 ?>
 
 <?php if($dynmap_server_6 == "true"){
-echo '<div style="background-image:url('.$dynmap_server_6_pozadi.')">
+echo '<div style="background-image:url('.$dynmap_server_6_pozadi.');background-position: center center;">
         <a href="'.$dynmap_server_6_odkaz.'" target="_blank"><div class="button">'.$dynmap_server_6_nazev.'</div></a>
       </div>';
 }
 ?>
 
 <?php if($dynmap_server_7 == "true"){
-echo '<div style="background-image:url('.$dynmap_server_7_pozadi.')">
+echo '<div style="background-image:url('.$dynmap_server_7_pozadi.');background-position: center center;">
         <a href="'.$dynmap_server_7_odkaz.'" target="_blank"><div class="button">'.$dynmap_server_7_nazev.'</div></a>
       </div>';
 }
 ?>
 
 <?php if($dynmap_server_8 == "true"){
-echo '<div style="background-image:url('.$dynmap_server_8_pozadi.')">
+echo '<div style="background-image:url('.$dynmap_server_8_pozadi.');background-position: center center;">
         <a href="'.$dynmap_server_8_odkaz.'" target="_blank"><div class="button">'.$dynmap_server_8_nazev.'</div></a>
       </div>';
 }
 ?>
 
 <?php if($dynmap_server_9 == "true"){
-echo '<div style="background-image:url('.$dynmap_server_9_pozadi.')">
+echo '<div style="background-image:url('.$dynmap_server_9_pozadi.');background-position: center center;">
         <a href="'.$dynmap_server_9_odkaz.'" target="_blank"><div class="button">'.$dynmap_server_9_nazev.'</div></a>
       </div>';
 }
 ?>
 
 <?php if($dynmap_server_10 == "true"){
-echo '<div style="background-image:url('.$dynmap_server_10_pozadi.')">
+echo '<div style="background-image:url('.$dynmap_server_10_pozadi.');background-position: center center;">
         <a href="'.$dynmap_server_10_odkaz.'" target="_blank"><div class="button">'.$dynmap_server_10_nazev.'</div></a>
       </div>';
 }
