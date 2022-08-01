@@ -9,3 +9,6 @@
 <br>
 <h3>Našel jsem chybu nebo mám problém! </h3>
 - 🍃 Kontaktuj mě na discordu (Sengy#0671), nebo si vytvoř issue v https://github.com/SengyEU/Minecraft-web-template/issues
+<br>
+<h3>Odkaz na spigot stránku: </h3>
+- 💫 https://www.spigotmc.org/resources/103935/
