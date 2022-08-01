@@ -210,7 +210,7 @@ $zkusebni_developer_5_nick = "SengyEU";
 
 //Hlavní technik
 $hlavni_technik_barva = "orangered";
-$technik_prefix = "Hl. Technik";
+$hlavni_technik_prefix = "Hl. Technik";
 
 $hlavni_technik = "true";
 $hlavni_technik_nick = "SengyEU";
