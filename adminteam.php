@@ -195,6 +195,105 @@ require('config.php');
   }
 ?>
 <?php
+  if($hlavni_technik == "true"){
+  echo    '<div>
+        <h3>'.$hlavni_technik_nick.'</h3>
+        <div class="button-clen" style="background-color:'.$hlavni_technik_barva.'">'.$hlavni_technik_prefix.'</div>
+        <img alt="" src="https://minotar.net/armor/body/'.$hlavni_technik_nick.'/720.png">
+      </div>';
+  }
+?>
+<?php
+  if($technik_1 == "true"){
+  echo    '<div>
+        <h3>'.$technik_1_nick.'</h3>
+        <div class="button-clen" style="background-color:'.$technik_barva.'">'.$technik_prefix.'</div>
+        <img alt="" src="https://minotar.net/armor/body/'.$technik_1_nick.'/720.png">
+      </div>';
+  }
+?>
+<?php
+  if($technik_2 == "true"){
+  echo    '<div>
+        <h3>'.$technik_2_nick.'</h3>
+        <div class="button-clen" style="background-color:'.$technik_barva.'">'.$technik_prefix.'</div>
+        <img alt="" src="https://minotar.net/armor/body/'.$technik_2_nick.'/720.png">
+      </div>';
+  }
+?>
+<?php
+  if($technik_3 == "true"){
+  echo    '<div>
+        <h3>'.$technik_3_nick.'</h3>
+        <div class="button-clen" style="background-color:'.$technik_barva.'">'.$technik_prefix.'</div>
+        <img alt="" src="https://minotar.net/armor/body/'.$technik_3_nick.'/720.png">
+      </div>';
+  }
+?>
+<?php
+  if($technik_4 == "true"){
+  echo    '<div>
+        <h3>'.$technik_4_nick.'</h3>
+        <div class="button-clen" style="background-color:'.$technik_barva.'">'.$technik_prefix.'</div>
+        <img alt="" src="https://minotar.net/armor/body/'.$technik_4_nick.'/720.png">
+      </div>';
+  }
+?>
+<?php
+  if($technik_5 == "true"){
+  echo    '<div>
+        <h3>'.$technik_5_nick.'</h3>
+        <div class="button-clen" style="background-color:'.$technik_barva.'">'.$technik_prefix.'</div>
+        <img alt="" src="https://minotar.net/armor/body/'.$technik_5_nick.'/720.png">
+      </div>';
+  }
+?>
+<?php
+  if($zkusebni_technik_1 == "true"){
+  echo    '<div>
+        <h3>'.$zkusebni_technik_1_nick.'</h3>
+        <div class="button-clen" style="background-color:'.$zkusebni_technik_barva.'">'.$zkusebni_technik_prefix.'</div>
+        <img alt="" src="https://minotar.net/armor/body/'.$zkusebni_technik_1_nick.'/720.png">
+      </div>';
+  }
+?>
+<?php
+  if($zkusebni_technik_2 == "true"){
+  echo    '<div>
+        <h3>'.$zkusebni_technik_2_nick.'</h3>
+        <div class="button-clen" style="background-color:'.$zkusebni_technik_barva.'">'.$zkusebni_technik_prefix.'</div>
+        <img alt="" src="https://minotar.net/armor/body/'.$zkusebni_technik_2_nick.'/720.png">
+      </div>';
+  }
+?>
+<?php
+  if($zkusebni_technik_3 == "true"){
+  echo    '<div>
+        <h3>'.$zkusebni_technik_3_nick.'</h3>
+        <div class="button-clen" style="background-color:'.$zkusebni_technik_barva.'">'.$zkusebni_technik_prefix.'</div>
+        <img alt="" src="https://minotar.net/armor/body/'.$zkusebni_technik_3_nick.'/720.png">
+      </div>';
+  }
+?>
+<?php
+  if($zkusebni_technik_4 == "true"){
+  echo    '<div>
+        <h3>'.$zkusebni_technik_4_nick.'</h3>
+        <div class="button-clen" style="background-color:'.$zkusebni_technik_barva.'">'.$zkusebni_technik_prefix.'</div>
+        <img alt="" src="https://minotar.net/armor/body/'.$zkusebni_technik_4_nick.'/720.png">
+      </div>';
+  }
+?>
+<?php
+  if($zkusebni_technik_5 == "true"){
+  echo    '<div>
+        <h3>'.$zkusebni_technik_5_nick.'</h3>
+        <div class="button-clen" style="background-color:'.$zkusebni_technik_barva.'">'.$zkusebni_technik_prefix.'</div>
+        <img alt="" src="https://minotar.net/armor/body/'.$zkusebni_technik_5_nick.'/720.png">
+      </div>';
+  }
+?>
+<?php
   if($hlavni_admin == "true"){
   echo    '<div>
         <h3>'.$hlavni_admin_nick.'</h3>
