@@ -157,10 +157,10 @@ $majitel_prefix = "Majitel";
 $majitel_1 = "true";
 $majitel_1_nick = "SengyEU";
 
-$majitel_2 = "true";
+$majitel_2 = "false";
 $majitel_2_nick = "SengyEU";
 
-$majitel_3 = "true";
+$majitel_3 = "false";
 $majitel_3_nick = "SengyEU";
 
 //Hlavní developer
@@ -177,16 +177,16 @@ $developer_prefix = "Developer";
 $developer_1 = "true";
 $developer_1_nick = "SengyEU";
 
-$developer_2 = "true";
+$developer_2 = "false";
 $developer_2_nick = "SengyEU";
 
-$developer_3 = "true";
+$developer_3 = "false";
 $developer_3_nick = "SengyEU";
 
-$developer_4 = "true";
+$developer_4 = "false";
 $developer_4_nick = "SengyEU";
 
-$developer_5 = "true";
+$developer_5 = "false";
 $developer_5_nick = "SengyEU";
 
 //Zkušební developeři
@@ -196,16 +196,16 @@ $zkusebni_developer_prefix = "Zk. Developer";
 $zkusebni_developer_1 = "true";
 $zkusebni_developer_1_nick = "SengyEU";
 
-$zkusebni_developer_2 = "true";
+$zkusebni_developer_2 = "false";
 $zkusebni_developer_2_nick = "SengyEU";
 
-$zkusebni_developer_3 = "true";
+$zkusebni_developer_3 = "false";
 $zkusebni_developer_3_nick = "SengyEU";
 
-$zkusebni_developer_4 = "true";
+$zkusebni_developer_4 = "false";
 $zkusebni_developer_4_nick = "SengyEU";
 
-$zkusebni_developer_5 = "true";
+$zkusebni_developer_5 = "false";
 $zkusebni_developer_5_nick = "SengyEU";
 
 //Hlavní technik
@@ -222,16 +222,16 @@ $technik_prefix = "Technik";
 $technik_1 = "true";
 $technik_1_nick = "SengyEU";
 
-$technik_2 = "true";
+$technik_2 = "false";
 $technik_2_nick = "SengyEU";
 
-$technik_3 = "true";
+$technik_3 = "false";
 $technik_3_nick = "SengyEU";
 
-$technik_4 = "true";
+$technik_4 = "false";
 $technik_4_nick = "SengyEU";
 
-$technik_5 = "true";
+$technik_5 = "false";
 $technik_5_nick = "SengyEU";
 
 
@@ -242,16 +242,16 @@ $zkusebni_technik_prefix = "Zk. Technik";
 $zkusebni_technik_1 = "true";
 $zkusebni_technik_1_nick = "SengyEU";
 
-$zkusebni_technik_2 = "true";
+$zkusebni_technik_2 = "false";
 $zkusebni_technik_2_nick = "SengyEU";
 
-$zkusebni_technik_3 = "true";
+$zkusebni_technik_3 = "false";
 $zkusebni_technik_3_nick = "SengyEU";
 
-$zkusebni_technik_4 = "true";
+$zkusebni_technik_4 = "false";
 $zkusebni_technik_4_nick = "SengyEU";
 
-$zkusebni_technik_5 = "true";
+$zkusebni_technik_5 = "false";
 $zkusebni_technik_5_nick = "SengyEU";
 
 //Hlavní admin
@@ -268,16 +268,16 @@ $admin_prefix = "Admin";
 $admin_1 = "true";
 $admin_1_nick = "SengyEU";
 
-$admin_2 = "true";
+$admin_2 = "false";
 $admin_2_nick = "SengyEU";
 
-$admin_3 = "true";
+$admin_3 = "false";
 $admin_3_nick = "SengyEU";
 
-$admin_4 = "true";
+$admin_4 = "false";
 $admin_4_nick = "SengyEU";
 
-$admin_5 = "true";
+$admin_5 = "false";
 $admin_5_nick = "SengyEU";
 
 //Zkušební admini
@@ -287,16 +287,16 @@ $zkusebni_admin_prefix = "Zk. Admin";
 $zkusebni_admin_1 = "true";
 $zkusebni_admin_1_nick = "SengyEU";
 
-$zkusebni_admin_2 = "true";
+$zkusebni_admin_2 = "false";
 $zkusebni_admin_2_nick = "SengyEU";
 
-$zkusebni_admin_3 = "true";
+$zkusebni_admin_3 = "false";
 $zkusebni_admin_3_nick = "SengyEU";
 
-$zkusebni_admin_4 = "true";
+$zkusebni_admin_4 = "false";
 $zkusebni_admin_4_nick = "SengyEU";
 
-$zkusebni_admin_5 = "true";
+$zkusebni_admin_5 = "false";
 $zkusebni_admin_5_nick = "SengyEU";
 
 //Hlavní helper
@@ -313,16 +313,16 @@ $helper_prefix = "Helper";
 $helper_1 = "true";
 $helper_1_nick = "SengyEU";
 
-$helper_2 = "true";
+$helper_2 = "false";
 $helper_2_nick = "SengyEU";
 
-$helper_3 = "true";
+$helper_3 = "false";
 $helper_3_nick = "SengyEU";
 
-$helper_4 = "true";
+$helper_4 = "false";
 $helper_4_nick = "SengyEU";
 
-$helper_5 = "true";
+$helper_5 = "false";
 $helper_5_nick = "SengyEU";
 
 //Zkušební helpeři
@@ -332,16 +332,16 @@ $zkusebni_helper_prefix = "Zk. Helper";
 $zkusebni_helper_1 = "true";
 $zkusebni_helper_1_nick = "SengyEU";
 
-$zkusebni_helper_2 = "true";
+$zkusebni_helper_2 = "false";
 $zkusebni_helper_2_nick = "SengyEU";
 
-$zkusebni_helper_3 = "true";
+$zkusebni_helper_3 = "false";
 $zkusebni_helper_3_nick = "SengyEU";
 
-$zkusebni_helper_4 = "true";
+$zkusebni_helper_4 = "false";
 $zkusebni_helper_4_nick = "SengyEU";
 
-$zkusebni_helper_5 = "true";
+$zkusebni_helper_5 = "false";
 $zkusebni_helper_5_nick = "SengyEU";
 
 //Hlavní builder
@@ -358,16 +358,16 @@ $builder_prefix = "Builder";
 $builder_1 = "true";
 $builder_1_nick = "SengyEU";
 
-$builder_2 = "true";
+$builder_2 = "false";
 $builder_2_nick = "SengyEU";
 
-$builder_3 = "true";
+$builder_3 = "false";
 $builder_3_nick = "SengyEU";
 
-$builder_4 = "true";
+$builder_4 = "false";
 $builder_4_nick = "SengyEU";
 
-$builder_5 = "true";
+$builder_5 = "false";
 $builder_5_nick = "SengyEU";
 
 //Zkušební buildeři
@@ -377,16 +377,15 @@ $zkusebni_builder_prefix = "Builder";
 $zkusebni_builder_1 = "true";
 $zkusebni_builder_1_nick = "SengyEU";
 
-$zkusebni_builder_2 = "true";
+$zkusebni_builder_2 = "false";
 $zkusebni_builder_2_nick = "SengyEU";
 
-$zkusebni_builder_3 = "true";
+$zkusebni_builder_3 = "false";
 $zkusebni_builder_3_nick = "SengyEU";
 
-$zkusebni_builder_4 = "true";
+$zkusebni_builder_4 = "false";
 $zkusebni_builder_4_nick = "SengyEU";
 
-$zkusebni_builder_5 = "true";
+$zkusebni_builder_5 = "false";
 $zkusebni_builder_5_nick = "SengyEU";
 ?>
-
